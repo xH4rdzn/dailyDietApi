@@ -30,3 +30,14 @@ ___
   - Quantidade total de refeições fora da dieta
   - Melhor sequência de refeições dentro da dieta
 - [ ] O usuário só pode visualizar, editar e apagar as refeições o qual ele criou
+
+## Screenshots
+
+##### Criação de um usuário
+![Criação de um usuário](./assets/createUser.png)
+
+##### Criação de uma refeição pelo mesmo usuário
+![Criação de uma refeição pelo mesmo usuário](./assets/createMealsBySameUser.png)
+
+##### Criação de uma refeição por um usuário diferente do identificado via cookies
+![Criação de uma refeição por um usuário diferente do identificado via cookies](./assets/createMealsDifferentUser.png)
