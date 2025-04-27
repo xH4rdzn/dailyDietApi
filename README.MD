@@ -1,5 +1,4 @@
 # Daily Diet API
-___
 
 - Nesse desafio proposto pela [Rocketseat](https://www.rocketseat.com.br/), vamos fazer uma API em ***NODE***, para controle de refeições;
 
