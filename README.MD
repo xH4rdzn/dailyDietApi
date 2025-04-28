@@ -10,6 +10,11 @@
 - [Biome](https://biomejs.dev/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Insomnia](https://insomnia.rest/)
+- [Vitest](https://vitest.dev/)
+- [Supertest](https://github.com/ladjs/supertest)
+- [TSX](https://tsx.is/)
+- [DotEnv](https://github.com/motdotla/dotenv)
+
 
 ## Regras da aplicação
 - [x] Deve ser possível criar um usuário
@@ -23,7 +28,7 @@
 - [x] Deve ser possível apagar uma refeição
 - [x] Deve ser possível listar todas as refeições de um usuário
 - [x] Deve ser possível visualizar uma única refeição
-- [ ] Deve ser possível recuperar as métricas de um usuário
+- [x] Deve ser possível recuperar as métricas de um usuário
   - Quantidade total de refeições
   - Quantidade total de refeições dentro da dieta
   - Quantidade total de refeições fora da dieta
@@ -40,3 +45,20 @@
 
 ##### Criação de uma refeição por um usuário diferente do identificado via cookies
 ![Criação de uma refeição por um usuário diferente do identificado via cookies](./assets/createMealsDifferentUser.png)
+
+##### Listando todas as refeições de um usuário
+![Listando todas as refeições de um usuário](./assets/ListAllMeals.png)
+
+##### Listando todas as refeições de um usuário, diferente do identificado via cookies
+![Listando todas as refeições de um usuário, diferente do identificado via cookies](./assets/ListAllMealsDiffrentUser.png)
+
+##### Verificando uma refeição especifica
+![Verificando uma refeição especifica](./assets/meal.png)
+
+##### Editando uma refeição
+![Verificando uma refeição especifica](./assets/editMeal.png)
+###### Resultado
+![resultado](./assets/editMealResult.png)
+
+##### Métricas
+![Métricas](./assets/resume.png)
